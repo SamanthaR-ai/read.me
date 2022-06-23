@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @samaya-stark
-- 👀 I’m interested in ...coding, anime and marvel
-- 🌱 I’m currently learning ...HTML/CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-samaya-stark/samaya-stark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Sam. 
+- I'm currently working through FreeCodeCamp's Responsive Web Design Certificate. My goal is over the next 6 months I want to build a portfolio that will land me a roll as a Front End/Full Stack Engineer. 
+- A huge marvel/horror movie fan. 
+- I will be posting my certification projects here.
